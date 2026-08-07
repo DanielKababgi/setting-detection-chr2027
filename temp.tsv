@@ -1,0 +1,101 @@
+mf-nnse	best_params	f1
+50	{'C': 10, 'gamma': 'scale', 'kernel': 'rbf'}	0.8318303757932239
+100	{'C': 10, 'gamma': 'scale', 'kernel': 'rbf'}	0.840999420829142
+150	{'C': 0.1, 'coef0': 1, 'degree': 3, 'gamma': 0.1, 'kernel': 'poly'}	0.863382754729504
+200	{'C': 1, 'coef0': 0, 'degree': 2, 'gamma': 0.01, 'kernel': 'poly'}	0.8646932960400452
+250	{'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}	0.8710519276618347
+300	{'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}	0.8798592967633215
+350	{'C': 10, 'gamma': 0.01, 'kernel': 'rbf'}	0.8785626917515461
+400	{'C': 0.1, 'coef0': 1, 'degree': 3, 'gamma': 0.1, 'kernel': 'poly'}	0.8562089928189
+450	{'C': 1, 'coef0': 0, 'degree': 3, 'gamma': 'scale', 'kernel': 'poly'}	0.8577125002047602
+500	{'C': 0.1, 'coef0': 0, 'degree': 2, 'gamma': 0.01, 'kernel': 'poly'}	0.8646932960400452
+550	{'C': 0.1, 'coef0': 0, 'degree': 2, 'gamma': 0.01, 'kernel': 'poly'}	0.8646932960400452
+600	{'C': 1, 'coef0': 0, 'degree': 3, 'gamma': 'scale', 'kernel': 'poly'}	0.8570990384457875
+650	{'C': 1, 'coef0': 0, 'degree': 3, 'gamma': 'scale', 'kernel': 'poly'}	0.8570990384457875
+700	{'C': 1, 'coef0': 0, 'degree': 3, 'gamma': 'scale', 'kernel': 'poly'}	0.8570990384457875
+750	{'C': 1, 'coef0': 0, 'degree': 3, 'gamma': 'scale', 'kernel': 'poly'}	0.8570990384457875
+800	{'C': 1, 'coef0': 0, 'degree': 3, 'gamma': 'scale', 'kernel': 'poly'}	0.8570990384457875
+850	{'C': 1, 'coef0': 0, 'degree': 3, 'gamma': 'scale', 'kernel': 'poly'}	0.8570990384457875
+900	{'C': 1, 'coef0': 0, 'degree': 3, 'gamma': 'scale', 'kernel': 'poly'}	0.8570990384457875
+950	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+1000	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+1050	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+1100	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+1150	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+1200	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+1250	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+1300	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+1350	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+1400	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+1450	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+1500	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+1550	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+1600	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+1650	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+1700	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+1750	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+1800	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+1850	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+1900	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+1950	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+2000	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+2050	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+2100	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+2150	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+2200	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+2250	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+2300	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+2350	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+2400	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+2450	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+2500	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+2550	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+2600	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+2650	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+2700	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+2750	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+2800	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+2850	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+2900	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+2950	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+3000	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+3050	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+3100	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+3150	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+3200	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+3250	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+3300	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+3350	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+3400	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+3450	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+3500	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+3550	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+3600	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+3650	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+3700	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+3750	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+3800	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+3850	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+3900	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+3950	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+4000	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+4050	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+4100	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+4150	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+4200	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+4250	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+4300	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+4350	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+4400	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+4450	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+4500	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+4550	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+4600	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+4650	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+4700	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+4750	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+4800	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+4850	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+4900	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+4950	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
+5000	{'C': 1, 'gamma': 'scale', 'kernel': 'rbf'}	0.855660917456583
