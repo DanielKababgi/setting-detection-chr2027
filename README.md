@@ -1,0 +1,2 @@
+# Finding Setting: Operationalizating a basic Narratological Category for Computational Literary Studies and Applying it to German Language Literature of the 19th Century
+This is the repository for the CHR2027 short paper *Finding Setting: Operationalizating a basic Narratological Category for Computational Literary Studies and Applying it to German Language Literature of the 19th Century* by Kababgi and Herrmann.
